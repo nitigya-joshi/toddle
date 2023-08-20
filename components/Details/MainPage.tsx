@@ -25,7 +25,6 @@ import {
 	AddBoxOutlined,
 } from "@mui/icons-material";
 import { randomInt } from "crypto";
-import { set } from "mongoose";
 const empty_board = `/empty_board.svg`;
 
 export default function MainPage() {
