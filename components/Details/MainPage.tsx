@@ -22,9 +22,7 @@ import {
 	FavoriteBorder,
 	BorderColorOutlined,
 	DeleteOutlined,
-	AddBoxOutlined,
 } from "@mui/icons-material";
-import { randomInt } from "crypto";
 const empty_board = `/empty_board.svg`;
 
 export default function MainPage() {
